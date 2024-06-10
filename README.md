@@ -34,7 +34,7 @@
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juanes527&&theme=swift"/>
         </td> 
                 <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanes527&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby&&theme=swift"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juanes527&show_icons=true&locale=en&layout=compact&theme=swift"/>
         </td>
     </tr>
     <tr>
